@@ -1,0 +1,64 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18394937&assignment_repo_type=AssignmentRepo)
+# SE_Day1
+Software Engineering Day1 Assignment
+
+#Part 1: Introduction to Software Engineering
+
+Explain what software engineering is and discuss its importance in the technology industry.
+  Software engineering refers to the process of building and maintaing high quality softwares.
+  importances:it enables creation of applications that powers various aspects of life like health,entertainment,communication etc
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+1.The Birth of Software Engineering (1968)
+ The term software engineering was first introduced at the 1968 NATO Software Engineering Conference to address the "software crisis"—where software projects were failing due to poor management, lack of structure, and increasing complexity. This milestone marked the beginning of formal methodologies and best practices in software development.
+
+2. The Rise of Object-Oriented Programming (1980s-1990s)
+ The introduction of Object-Oriented Programming (OOP) revolutionized software design by introducing reusable components (objects) instead of procedural code. Languages like C++, Java, and Python emerged, making software more modular, scalable, and easier to maintain.
+
+3. The Agile Revolution (2001-Present)
+ The Agile Manifesto (2001) introduced a flexible, iterative approach to software development, focusing on collaboration, adaptability, and customer satisfaction. This milestone shifted the industry from rigid, document-heavy methodologies (like Waterfall) to dynamic and user-focused development models such as Scrum, Kanban, and DevOp
+
+List and briefly explain the phases of the Software Development Life Cycle.
+1.Requirements-This involves gathering and documenting users needs and the systems need.
+2.Design-This refers to the process of creating high-quality software archtectures and user interface.
+3.Implimentation-This refers to writing codes to build the design sketch in acomputer language
+4.Testing-Refers to the processing of evaluating whether the software is performing as expected.
+5.Deployment -Refers to the process of releasing the software to the users or customer.
+6.Maitenance-Refers to the process of providing ongoing support,update and enhancement to the software after deployment.
+Project Man
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall methodology refers to the A linear, sequential approach where each phase (requirement, design, implementation, testing, deployment) is completed before moving to the next example Developing a banking system where all security and compliance requirements are known in advance while Agile methodology refers to the An iterative, flexible approach where development happens in small increments with continuous feedback and adaptation exampleCreating a startup website where features may change based on market demand.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a product manager in a software engineering team.
+1.Sotfware developer-writes code and impliments the software solution.
+2.Quality Assurance Engineer-Ensures the software quality by designing  and executing the plans 
+3. product manager-oversees the planning ,execution and delivery of software project
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+1.Integrated Development Environments (IDEs)-Help us write code,debugg them and test them example vs code.
+2.Version Control Systems (VCS)-help us track the changes or updates in our codes  example Git.
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+1.changing of the requirements
+2.Tight deadlines 
+3.Technical debts
+solutions
+1.effective communication.
+2.use agile methodology where project is released small phases .
+3.priotization of tasks
+4.Assess projects` goal  and timeline regulary.
+
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+1.unit testing-involves testing individual components like functions ,methods and modules to ensure they function correctly.
+2.integration testing -refers to the process of  testing how different componets and modules interact with each other.
+3.system testing-test the entire system or application to ensure it performs as expected to or it meets it`s requirements.
+4.acceptance testing-Evaluates whether the system meets user requirements before release.
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+----Prompt is the practice of designing and optimizing input prompts to guide AI models (like ChatGPT) in generating accurate, relevant, and high-quality responses.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+exampl:"tell me about a cat"-this is too broad hence it`s vague.
+more effective:"tell me more about cat skin "atleast it is a bit specific 
